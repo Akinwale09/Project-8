@@ -49,6 +49,6 @@
 `sudo systemctl status apache2`
 ![ScreenShot_20_07_2022_19_40_51](https://user-images.githubusercontent.com/19933457/180863462-bb785b2c-69de-4e32-82a3-c302f41d08e7.png)
 
-
+### Configure load balancing
 
 
